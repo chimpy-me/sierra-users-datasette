@@ -40,3 +40,9 @@ Running the main script will generate a SQLite database from the Sierra PostgreS
     uv run python main.py
     uv run datasette .
     ```
+
+
+## TODO/Improvements
+
+- Add more views and canned queries for common user data explorations.
+- Add data definitions and documentation for the users tables.
