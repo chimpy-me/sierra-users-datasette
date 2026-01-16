@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+
+# datasette files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm

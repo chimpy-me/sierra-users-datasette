@@ -1,0 +1,12 @@
+[project]
+name = "chimpy-users"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "datasette>=1.0a",
+    "psycopg>=3.3.2",
+    "python-dotenv>=1.2.1",
+    "sqlalchemy>=2.0.45",
+]
