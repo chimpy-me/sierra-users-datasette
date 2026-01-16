@@ -44,5 +44,6 @@ Running the main script will generate a SQLite database from the Sierra PostgreS
 
 ## TODO/Improvements
 
+- Foreign key relationships between users tables for better navigation within Datasette.
 - Add more views and canned queries for common user data explorations.
 - Add data definitions and documentation for the users tables.

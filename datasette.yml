@@ -1,6 +1,4 @@
 settings:
   sql_time_limit_ms: 60000  # 60 seconds
   facet_time_limit_ms: 60000  # 60 seconds
-databases:
-  users:
-    description: Sierra PostgreSQL Database Users tables
+  

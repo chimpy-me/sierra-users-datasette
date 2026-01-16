@@ -1,0 +1,11 @@
+title: Sierra Users Metadata
+
+databases:
+  users:
+    about: Sierra PostgreSQL Database Users tables
+
+    tables:
+      user_dim:
+        title: User Dimension
+        description: Contains common user information.
+        hidden: false
